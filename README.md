@@ -1,14 +1,13 @@
-#FUTURE_CS_02
 # Phishing Detection & Awareness System Report
 
 ## 📌 Project Overview
-This project demonstrates the identification, analysis, and awareness of phishing email attacks as part of a cybersecurity internship task.
+This project demonstrates the identification, analysis, and awareness of phishing email attacks.
 
 The objective was to analyze phishing email samples, identify attack indicators, classify risks, and provide prevention guidelines.
 
 
 ## 📧 Phishing Emails Analyzed
-- Task Provided Sample Email
+- Sample Email
 - PayPal Phishing Email Example
 - Banking Phishing Email Example
 
@@ -48,4 +47,3 @@ The objective was to analyze phishing email samples, identify attack indicators,
 
 ## 👩‍💻 Author
 Sanjivani Pandey  
-Cybersecurity Intern
