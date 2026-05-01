@@ -42,7 +42,7 @@ The objective was to analyze phishing email samples, identify attack indicators,
 
 
 ## 📂 Repository Contents
-- Phishing Detection & Awareness Report (PDF)
+- Phishing Detection and Awareness Report (PDF)
 - Supporting Evidence (Screenshots / Sample Emails)
 
 ## 👩‍💻 Author
